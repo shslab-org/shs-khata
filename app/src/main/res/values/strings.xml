@@ -1,0 +1,42 @@
+<resources>
+    <!-- SHS Khata : Bangla + English UI strings -->
+    <string name="app_name">এসএইচএস খাতা</string>
+
+    <!-- Customers screen -->
+    <string name="customers">গ্রাহক (Customers)</string>
+    <string name="total_due">মোট বাকি (Total Due)</string>
+    <string name="add_customer">গ্রাহক যোগ করুন (Add Customer)</string>
+    <string name="edit_customer">গ্রাহক সম্পাদনা (Edit Customer)</string>
+    <string name="customer_name">নাম (Name)</string>
+    <string name="phone">মোবাইল (Phone)</string>
+    <string name="note">নোট (Note)</string>
+    <string name="save">সেভ (Save)</string>
+    <string name="cancel">বাতিল (Cancel)</string>
+    <string name="delete">মুছুন (Delete)</string>
+    <string name="search_hint">নাম বা মোবাইল দিয়ে খুঁজুন (Search)</string>
+    <string name="name_required">নাম আবশ্যক (Name is required)</string>
+    <string name="no_customers">এখনও কোনো গ্রাহক নেই। নিচের + বোতামে ট্যাপ করে যোগ করুন।\nNo customers yet. Tap + to add one.</string>
+    <string name="confirm_delete_customer">আপনি কি নিশ্চিত? লেনদেনসহ গ্রাহক মুছে যাবে।\nAre you sure? Customer and all transactions will be deleted.</string>
+    <string name="balance_label">ব্যালেন্স (Balance)</string>
+    <string name="balance_owes">বাকি</string>
+    <string name="balance_advance">অগ্রিম</string>
+    <string name="balance_clear">ক্লিয়ার</string>
+
+    <!-- Ledger screen -->
+    <string name="ledger">খাতা (Ledger)</string>
+    <string name="add_transaction">লেনদেন যোগ করুন (Add Transaction)</string>
+    <string name="you_gave">দিলেম (You Gave)</string>
+    <string name="you_got">পেলেম (You Got)</string>
+    <string name="amount">টাকা (Amount)</string>
+    <string name="amount_required">০ এর বেশি টাকার পরিমাণ দিন (Enter amount greater than 0)</string>
+    <string name="txn_note">বিবরণ (Note)</string>
+    <string name="no_transactions">কোনো লেনদেন নেই।\nNo transactions yet.</string>
+    <string name="confirm_delete_txn">এই লেনদেনটি মুছে ফেলবেন?\nDelete this transaction?</string>
+    <string name="newer_first">নতুন আগে (Newest first)</string>
+    <string name="customer">গ্রাহক</string>
+    <string name="confirm_delete_customer_title">Delete \"%s\"?</string>
+    <string name="confirm_delete_txn_title">Delete this transaction?</string>
+    <string name="app_title">এসএইচএস খাতা (SHS Khata)</string>
+    <string name="total_due_summary">মোট বাকি (Total Due)</string>
+    <string name="customer_count">%d গ্রাহক (Customers)</string>
+</resources>
